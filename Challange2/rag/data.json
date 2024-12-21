@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Chicken Alfredo",
+    "ingredients": [
+      { "name": "chicken breast", "quantity": "300g" },
+      { "name": "fettuccine", "quantity": "200g" },
+      { "name": "heavy cream", "quantity": "1 cup" },
+      { "name": "Parmesan cheese", "quantity": "100g" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "butter", "quantity": "2 tbsp" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "Italian",
+    "preparation_time": 30,
+    "instructions": "Cook chicken, then make the Alfredo sauce with cream, butter, and Parmesan. Serve with fettuccine."
+  },
+  {
+    "name": "Vegetable Stir-Fry",
+    "ingredients": [
+      { "name": "bell peppers", "quantity": "2" },
+      { "name": "broccoli", "quantity": "100g" },
+      { "name": "carrots", "quantity": "2" },
+      { "name": "soy sauce", "quantity": "2 tbsp" },
+      { "name": "sesame oil", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "Asian",
+    "preparation_time": 15,
+    "instructions": "Stir-fry vegetables in sesame oil and garlic, add soy sauce, and serve."
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      { "name": "ground beef", "quantity": "300g" },
+      { "name": "spaghetti", "quantity": "200g" },
+      { "name": "tomatoes", "quantity": "2" },
+      { "name": "onion", "quantity": "1" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "olive oil", "quantity": "1 tbsp" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "Italian",
+    "preparation_time": 45,
+    "instructions": "Cook beef with onions and garlic, add tomatoes to make sauce. Serve with spaghetti."
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "ingredients": [
+      { "name": "chicken breast", "quantity": "200g" },
+      { "name": "romaine lettuce", "quantity": "1 head" },
+      { "name": "Caesar dressing", "quantity": "3 tbsp" },
+      { "name": "croutons", "quantity": "50g" },
+      { "name": "Parmesan cheese", "quantity": "50g" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "American",
+    "preparation_time": 20,
+    "instructions": "Grill chicken, chop lettuce, toss with dressing, croutons, and cheese."
+  },
+  {
+    "name": "Beef Stroganoff",
+    "ingredients": [
+      { "name": "beef", "quantity": "300g" },
+      { "name": "onions", "quantity": "1" },
+      { "name": "sour cream", "quantity": "1 cup" },
+      { "name": "beef broth", "quantity": "1 cup" },
+      { "name": "egg noodles", "quantity": "200g" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "Russian",
+    "preparation_time": 40,
+    "instructions": "Cook beef and onions, make sauce with sour cream and broth. Serve over noodles."
+  },
+  {
+    "name": "Pasta Primavera",
+    "ingredients": [
+      { "name": "penne pasta", "quantity": "200g" },
+      { "name": "zucchini", "quantity": "1" },
+      { "name": "cherry tomatoes", "quantity": "100g" },
+      { "name": "bell peppers", "quantity": "2" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "olive oil", "quantity": "2 tbsp" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "Italian",
+    "preparation_time": 25,
+    "instructions": "Cook pasta, sauté vegetables in olive oil, toss with pasta."
+  },
+  {
+    "name": "Eggplant Parmesan",
+    "ingredients": [
+      { "name": "eggplant", "quantity": "2" },
+      { "name": "mozzarella cheese", "quantity": "150g" },
+      { "name": "Parmesan cheese", "quantity": "50g" },
+      { "name": "marinara sauce", "quantity": "1 cup" },
+      { "name": "breadcrumbs", "quantity": "1 cup" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "Italian",
+    "preparation_time": 45,
+    "instructions": "Bread and fry eggplant, layer with sauce and cheese, bake."
+  },
+  {
+    "name": "Mushroom Risotto",
+    "ingredients": [
+      { "name": "Arborio rice", "quantity": "200g" },
+      { "name": "mushrooms", "quantity": "150g" },
+      { "name": "vegetable broth", "quantity": "1L" },
+      { "name": "Parmesan cheese", "quantity": "50g" },
+      { "name": "garlic", "quantity": "2 cloves" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "Italian",
+    "preparation_time": 40,
+    "instructions": "Sauté mushrooms and garlic, cook rice in broth, stir in cheese."
+  },
+  {
+    "name": "Chili Con Carne",
+    "ingredients": [
+      { "name": "ground beef", "quantity": "300g" },
+      { "name": "kidney beans", "quantity": "1 can" },
+      { "name": "tomatoes", "quantity": "2" },
+      { "name": "onion", "quantity": "1" },
+      { "name": "chili powder", "quantity": "1 tbsp" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "American",
+    "preparation_time": 50,
+    "instructions": "Cook beef with onions, add beans, tomatoes, and spices. Simmer."
+  },
+  {
+    "name": "Falafel",
+    "ingredients": [
+      { "name": "chickpeas", "quantity": "1 can" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "onion", "quantity": "1" },
+      { "name": "cumin", "quantity": "1 tsp" },
+      { "name": "parsley", "quantity": "2 tbsp" },
+      { "name": "flour", "quantity": "2 tbsp" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "Middle Eastern",
+    "preparation_time": 30,
+    "instructions": "Blend ingredients, form into balls, and fry until golden."
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "ingredients": [
+      { "name": "chicken breast", "quantity": "300g" },
+      { "name": "yogurt", "quantity": "1 cup" },
+      { "name": "garam masala", "quantity": "1 tbsp" },
+      { "name": "onions", "quantity": "1" },
+      { "name": "tomatoes", "quantity": "2" },
+      { "name": "cream", "quantity": "0.5 cup" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "Indian",
+    "preparation_time": 50,
+    "instructions": "Marinate chicken in yogurt and spices, cook in a sauce made with onions, tomatoes, and cream."
+  },
+  {
+    "name": "Beef Tacos",
+    "ingredients": [
+      { "name": "ground beef", "quantity": "300g" },
+      { "name": "taco shells", "quantity": "8" },
+      { "name": "cheese", "quantity": "100g" },
+      { "name": "lettuce", "quantity": "50g" },
+      { "name": "salsa", "quantity": "100g" },
+      { "name": "sour cream", "quantity": "50g" }
+    ],
+    "taste": "Savory",
+    "cuisine_type": "Mexican",
+    "preparation_time": 20,
+    "instructions": "Cook beef in a skillet until browned, fill taco shells with beef, lettuce, cheese, salsa, and top with sour cream."
+  }
+]
