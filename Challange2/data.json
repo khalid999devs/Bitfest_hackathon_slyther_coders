@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "name": "Chicken Alfredo",
+      "ingredients": "{\"chicken breast\": \"300g\", \"fettuccine\": \"200g\", \"heavy cream\": \"1 cup\", \"Parmesan cheese\": \"100g\", \"garlic\": \"2 cloves\", \"butter\": \"2 tbsp\"}",
+      "taste": "Savory",
+      "cuisine_type": "Italian",
+      "preparation_time": 30,
+      "instructions": "Cook chicken, then make the Alfredo sauce with cream, butter, and Parmesan. Serve with fettuccine."
+    },
+    {
+      "id": 2,
+      "name": "Vegetable Stir-Fry",
+      "ingredients": "{\"bell peppers\": \"2\", \"broccoli\": \"100g\", \"carrots\": \"2\", \"soy sauce\": \"2 tbsp\", \"sesame oil\": \"1 tbsp\", \"garlic\": \"2 cloves\"}",
+      "taste": "Savory",
+      "cuisine_type": "Asian",
+      "preparation_time": 15,
+      "instructions": "Stir-fry vegetables in sesame oil and garlic, add soy sauce, and serve."
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti Bolognese",
+      "ingredients": "{\"ground beef\": \"300g\", \"spaghetti\": \"200g\", \"tomatoes\": \"2\", \"onion\": \"1\", \"garlic\": \"2 cloves\", \"olive oil\": \"1 tbsp\"}",
+      "taste": "Savory",
+      "cuisine_type": "Italian",
+      "preparation_time": 45,
+      "instructions": "Cook beef with onions and garlic, add tomatoes to make sauce. Serve with spaghetti."
+    },
+    {
+      "id": 4,
+      "name": "Chicken Caesar Salad",
+      "ingredients": "{\"chicken breast\": \"200g\", \"romaine lettuce\": \"1 head\", \"Caesar dressing\": \"3 tbsp\", \"croutons\": \"50g\", \"Parmesan cheese\": \"50g\"}",
+      "taste": "Savory",
+      "cuisine_type": "American",
+      "preparation_time": 20,
+      "instructions": "Grill chicken, chop lettuce, toss with dressing, croutons, and cheese."
+    },
+    {
+      "id": 5,
+      "name": "Beef Stroganoff",
+      "ingredients": "{\"beef\": \"300g\", \"onions\": \"1\", \"sour cream\": \"1 cup\", \"beef broth\": \"1 cup\", \"egg noodles\": \"200g\"}",
+      "taste": "Savory",
+      "cuisine_type": "Russian",
+      "preparation_time": 40,
+      "instructions": "Cook beef and onions, make sauce with sour cream and broth. Serve over noodles."
+    },
+    {
+      "id": 6,
+      "name": "Pasta Primavera",
+      "ingredients": "{\"penne pasta\": \"200g\", \"zucchini\": \"1\", \"cherry tomatoes\": \"100g\", \"bell peppers\": \"2\", \"garlic\": \"2 cloves\", \"olive oil\": \"2 tbsp\"}",
+      "taste": "Savory",
+      "cuisine_type": "Italian",
+      "preparation_time": 25,
+      "instructions": "Cook pasta, sauté vegetables in olive oil, toss with pasta."
+    },
+    {
+      "id": 7,
+      "name": "Eggplant Parmesan",
+      "ingredients": "{\"eggplant\": \"2\", \"mozzarella cheese\": \"150g\", \"Parmesan cheese\": \"50g\", \"marinara sauce\": \"1 cup\", \"breadcrumbs\": \"1 cup\"}",
+      "taste": "Savory",
+      "cuisine_type": "Italian",
+      "preparation_time": 45,
+      "instructions": "Bread and fry eggplant, layer with sauce and cheese, bake."
+    },
+    {
+      "id": 8,
+      "name": "Mushroom Risotto",
+      "ingredients": "{\"Arborio rice\": \"200g\", \"mushrooms\": \"150g\", \"vegetable broth\": \"1L\", \"Parmesan cheese\": \"50g\", \"garlic\": \"2 cloves\"}",
+      "taste": "Savory",
+      "cuisine_type": "Italian",
+      "preparation_time": 40,
+      "instructions": "Sauté mushrooms and garlic, cook rice in broth, stir in cheese."
+    },
+    {
+      "id": 9,
+      "name": "Chili Con Carne",
+      "ingredients": "{\"ground beef\": \"300g\", \"kidney beans\": \"1 can\", \"tomatoes\": \"2\", \"onion\": \"1\", \"chili powder\": \"1 tbsp\"}",
+      "taste": "Savory",
+      "cuisine_type": "American",
+      "preparation_time": 50,
+      "instructions": "Cook beef with onions, add beans, tomatoes, and spices. Simmer."
+    },
+    {
+      "id": 10,
+      "name": "Falafel",
+      "ingredients": "{\"chickpeas\": \"1 can\", \"garlic\": \"2 cloves\", \"onion\": \"1\", \"cumin\": \"1 tsp\", \"parsley\": \"2 tbsp\", \"flour\": \"2 tbsp\"}",
+      "taste": "Savory",
+      "cuisine_type": "Middle Eastern",
+      "preparation_time": 30,
+      "instructions": "Blend ingredients, form into balls, and fry until golden."
+    },
+    {
+      "id": 11,
+      "name": "Chicken Tikka Masala",
+      "ingredients": "{\"chicken breast\": \"300g\", \"yogurt\": \"1 cup\", \"garam masala\": \"1 tbsp\", \"onions\": \"1\", \"tomatoes\": \"2\", \"cream\": \"0.5 cup\"}",
+      "taste": "Savory",
+      "cuisine_type": "Indian",
+      "preparation_time": 50,
+      "instructions": "Marinate chicken in yogurt and spices, cook in a sauce made with onions, tomatoes, and cream."
+    },
+    {
+      "id": 12,
+      "name": "Beef Tacos",
+      "ingredients": "{\"ground beef\": \"300g\", \"taco shells\": \"8\", \"cheese\": \"100g\", \"lettuce\": \"50g\", \"salsa\": \"100g\", \"sour cream\": \"50g\"}",
+      "taste": "Savory",
+      "cuisine_type": "Mexican",
+      "preparation_time": 20,
+      "instructions": "Cook beef in a skillet until browned, fill taco shells with beef, lettuce, cheese, salsa, and top with sour cream."
+    },
+    {
+      "id": 13,
+      "name": "French Onion Soup",
+      "ingredients": "{\"onions\": \"4\", \"beef broth\": \"1L\", \"butter\": \"3 tbsp\", \"flour\": \"2 tbsp\", \"gruyere cheese\": \"100g\", \"baguette slices\": \"6\"}",
+      "taste": "Savory",
+      "cuisine_type": "French",
+      "preparation_time": 60,
+      "instructions": "Caramelize onions in butter, add flour and broth, simmer for 40 minutes, then serve with toasted baguette topped with melted cheese."
+    },
+    {
+      "id": 14,
+      "name": "Shrimp Pad Thai",
+      "ingredients": "{\"rice noodles\": \"200g\", \"shrimp\": \"300g\", \"eggs\": \"2\", \"bean sprouts\": \"100g\", \"peanuts\": \"50g\", \"pad thai sauce\": \"100ml\"}",
+      "taste": "Savory",
+      "cuisine_type": "Thai",
+      "preparation_time": 30,
+      "instructions": "Cook noodles, stir-fry shrimp and eggs, mix with noodles, sauce, and sprouts, garnish with peanuts and serve."
+    },
+    {
+      "id": 15,
+      "name": "Pumpkin Pie",
+      "ingredients": "{\"pumpkin puree\": \"2 cups\", \"eggs\": \"2\", \"sugar\": \"0.75 cup\", \"cinnamon\": \"1 tsp\", \"pie crust\": \"1\", \"cream\": \"0.5 cup\"}",
+      "taste": "Sweet",
+      "cuisine_type": "Dessert",
+      "preparation_time": 50,
+      "instructions": "Mix ingredients, pour into a pie crust, and bake at 180°C for 45 minutes."
+    },
+    {
+      "id": 16,
+      "name": "Fish and Chips",
+      "ingredients": "{\"white fish\": \"300g\", \"potatoes\": \"3\", \"flour\": \"1 cup\", \"beer\": \"200ml\", \"salt\": \"1 tsp\", \"oil\": \"for frying\"}",
+      "taste": "Savory",
+      "cuisine_type": "British",
+      "preparation_time": 40,
+      "instructions": "Coat fish in batter made of flour and beer, fry until golden, serve with fried potato wedges and salt."
+    },
+    {
+      "id": 17,
+      "name": "Ratatouille",
+      "ingredients": "{\"zucchini\": \"1\", \"eggplant\": \"1\", \"bell peppers\": \"2\", \"tomatoes\": \"3\", \"olive oil\": \"3 tbsp\", \"herbs\": \"1 tsp\"}",
+      "taste": "Savory",
+      "cuisine_type": "French",
+      "preparation_time": 45,
+      "instructions": "Slice vegetables, layer in a baking dish, drizzle with olive oil and herbs, bake at 180°C for 35-40 minutes."
+    },
+    {
+      "id": 18,
+      "name": "Mango Smoothie",
+      "ingredients": "{\"mango\": \"1\", \"yogurt\": \"1 cup\", \"milk\": \"0.5 cup\", \"honey\": \"1 tbsp\", \"ice\": \"1 cup\"}",
+      "taste": "Sweet",
+      "cuisine_type": "Beverage",
+      "preparation_time": 5,
+      "instructions": "Blend all ingredients until smooth, pour into a glass, and serve immediately."
+    },
+    {
+      "id": 19,
+      "name": "Avocado Toast",
+      "ingredients": "{\"bread slices\": \"2\", \"avocado\": \"1\", \"lemon juice\": \"1 tsp\", \"salt\": \"0.5 tsp\", \"pepper\": \"0.5 tsp\"}",
+      "taste": "Savory",
+      "cuisine_type": "Breakfast",
+      "preparation_time": 10,
+      "instructions": "Toast bread, mash avocado with lemon juice, salt, and pepper, spread on toast and serve."
+    },
+    {
+      "id": 20,
+      "name": "Greek Salad",
+      "ingredients": "{\"cucumber\": \"1\", \"tomatoes\": \"2\", \"red onion\": \"1\", \"feta cheese\": \"100g\", \"olives\": \"50g\", \"olive oil\": \"2 tbsp\"}",
+      "taste": "Savory",
+      "cuisine_type": "Mediterranean",
+      "preparation_time": 15,
+      "instructions": "Chop vegetables, mix with feta and olives, drizzle with olive oil, and serve."
+    }
+  ]
